@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👩‍🎓I am Computer Science student with a strong interest in software development, web technologies, and machine learning.<br>💻I possess good problem-solving skills, a quick learning ability, and a passion for creating user-friendly and efficient applications.<br>👩‍💻I am eager to apply my technical knowledge and grow professionally in a challenging environment.<br>
+👩‍🎓I am Computer Science student with a strong interest in software development, web technologies, and machine learning.I possess good problem-solving skills, a quick learning ability, and a passion for creating user-friendly and efficient applications.I am eager to apply my technical knowledge and grow professionally in a challenging environment.
 
 
 ## 🌐 Socials:
