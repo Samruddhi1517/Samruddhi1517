@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👩‍🎓I am Computer Science student with a strong interest in software development, web technologies, and machine learning.I possess good problem-solving skills, a quick learning ability, and a passion for creating user-friendly and efficient applications.I am eager to apply my technical knowledge and grow professionally in a challenging environment.
+👩‍🎓Data Science and Analytics enthusiast with hands-on experience in Python, machine learning, and data visualization. Skilled in data cleaning, exploratory data analysis, predictive modeling, and translating raw data into actionable insights using tools such as Pandas, Scikit-learn, Power BI, and Tableau. Strong analytical and problem-solving foundation built through applied ML and computer vision projects. Seeking a Data Science / Data Analytics internship or entry-level role to apply statistical and technical skills to solve real business problems.
 
 
 ## 🌐 Socials:
